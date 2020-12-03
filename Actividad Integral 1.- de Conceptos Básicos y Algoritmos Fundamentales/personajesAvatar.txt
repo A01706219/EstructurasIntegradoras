@@ -1,0 +1,14 @@
+aang 112 avatar
+katara 14 water
+sokka 16 none
+toph 12 earth
+zuko 16 fire
+jet 17 none
+mai 16 none
+suki 15 none
+ty 15 none
+ozai 45 fire
+roku 70 avatar
+zhao 48 fire
+yue 16 water
+bumi 109 earth
