@@ -11,7 +11,7 @@ y de esa forma ya funciona mucho mejor.
 
 -Añadí casos de prueba y documente mi código.
 
-Actividad Integral 3.- Ábroles (Evidencia Competencia)
+Actividad Integral 3.- Árboles
 
 -Añadí casos de prueba y documente mi código.
 
